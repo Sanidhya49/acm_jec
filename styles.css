@@ -72,9 +72,9 @@ span {
     color: var(--main-color);
 }
 
-.navlist a.active {
+/* .navlist a.active {
     color: var(--main-color);
-}
+} */
 
 #menu-icon {
     font-size: 35px;
